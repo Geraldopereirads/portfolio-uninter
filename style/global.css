@@ -1,0 +1,11 @@
+@import url("../style/reset.css");
+
+
+
+:root {
+    --primary-color:#D6CD2A;
+    --secondary-color:#1B1B1B;
+    --text-color-white:#DAD7D0;
+    --text-color-dark:#262625;
+
+}
