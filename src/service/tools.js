@@ -62,6 +62,10 @@ export const tool = [
     {
         id: "16",
         title: "SQL"
+    },
+    {
+        id: "17",
+        title: "Inglês Intermediário"
     }
  
 ]
