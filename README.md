@@ -18,9 +18,8 @@ O site é um portfólio pessoal composto por quatro páginas principais, todas i
 
 ## 💡 Observações
 
-- Nenhum recurso de Bootstrap, WordPress ou frameworks similares foi utilizado, conforme exigência da atividade.
+- Nenhum recurso de Bootstrap, WordPress ou frameworks foi utilizado, conforme exigência da atividade.
 - O site foi publicado em um domínio gratuito que inclui meu nome no endereço.
-- O design foi pensado com foco em clareza, responsividade básica e boa experiência do usuário.
 
 ---
 
