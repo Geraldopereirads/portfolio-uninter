@@ -1,0 +1,9 @@
+@import url("/src/style/reset.css");
+
+/* AQUI EU COLOQUEI AS CORES QUE VOU UTILIZAR EM TODA A APLICAÇÃO*/
+:root {
+  --primary-color: #d6cd2a;
+  --secondary-color: #1b1b1b;
+  --text-color-white: #dad7d0;
+  --text-color-dark: #262625;
+}

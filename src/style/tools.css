@@ -1,0 +1,57 @@
+@import url("/src/style/global.css");
+
+main {
+  background-image: url("/src/img/backgroundLight.svg");
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0px 50px 0px 50px;
+}
+
+h1 {
+  background-color: var(--primary-color);
+  height: 64px;
+  font-weight: 700;
+  width: 270px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  border-radius: 15px;
+  margin: 80px 0px 80px 0px;
+}
+
+ul {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 30px;
+  flex-wrap: wrap;
+}
+
+li {
+    background-color: var(--secondary-color);
+    border-radius: 20px;
+    padding: 15px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+
+p {
+    color: var(--text-color-white);
+    width: 100px;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 16px;
+    font-weight: bold;
+}
+
